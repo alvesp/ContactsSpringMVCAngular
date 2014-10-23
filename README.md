@@ -17,7 +17,7 @@ For open HSQL DB Manager please access to http://localhost:8080/uaiContacts/bd
 and then run the follow DML:
 <code>
 INSERT INTO system_user (email,enabled,name,password,user_role) VALUES('somebody@mymail.com','true','admin','admin','ROLE_ADMIN');
-INSERT INTO system_user (email,enabled,name,password,user_role) ) VALUES('someother@mymail.com','true','user','user','ROLE_USER');
+INSERT INTO system_user (email,enabled,name,password,user_role) VALUES('someother@mymail.com','true','user','user','ROLE_USER');
 </code>
     
     
