@@ -15,6 +15,17 @@ This project is a full web application with the following technologies:
 
 The improvements are:
 * HSQL inmemory support
+For open HSQL DB Manager please access to http://localhost:8080/uaiContacts/bd
+and then run the follow DML:
+<code>
+INSERT INTO system_user (email,enabled,name,password,user_role) VALUES('somebody@mymail.com','true','admin','admin','ROLE_ADMIN');
+INSERT INTO system_user (email,enabled,name,password,user_role) ) VALUES('someother@mymail.com','true','user','user','ROLE_USER');
+</code>
+    
+    
+Next improvements:
+* Spring BOM
+* Spring Boot
 
 
 To know more about this project:
