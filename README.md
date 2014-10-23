@@ -22,4 +22,4 @@ To know more about this project:
   http://uaihebert.com/?p=2008
   
   
-  DISCLAIM: All credits to this application tutorial should be address to Herbert (uaiHebert.com)
+  DISCLAIM: All credits for this tutorial aplication should be address to Herbert (uaiHebert.com)
