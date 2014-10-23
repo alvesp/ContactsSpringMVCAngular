@@ -1,7 +1,5 @@
 This project is a flavor from uaiHebert.com
 
-
-
 This project is a full web application with the following technologies:
 * SpringMVC - Spring MVC will handles the user requests
 * SpringData - Spring Data will handle all database actions
